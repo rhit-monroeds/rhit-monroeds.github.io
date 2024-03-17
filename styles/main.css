@@ -143,3 +143,18 @@ a:hover {
 a:active {
     text-decoration: none;
 }
+
+#scrollUp {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    background-color: var(--heading-color);
+    color: var(--contrast-color);
+    padding: 15px;
+    font-size: 18px;
+}
+
+#scrollUp:hover {
+    background-color: #555;
+}
