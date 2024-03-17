@@ -37,6 +37,9 @@ h1, h2, h3 {
 
 body#about img {
     height: 15em;
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
 }
 
 
